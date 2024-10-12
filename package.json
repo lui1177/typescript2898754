@@ -1,0 +1,12 @@
+{
+  "name": "typescript2898754",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "typescript2898754": "file:"
+  },
+  "scripts": {
+    "start": "nodemon dist/index.js"
+  }
+}
